@@ -1,2 +1,1 @@
-# Professional-JavaScript-Notes
-《JavaScript高级程序设计》笔记
+# 第1章JavaScript简介
